@@ -1,0 +1,5 @@
+[package]
+
+name = "hello_world"
+version = "0.0.1"
+author = [ "あなたの名前 <aritaku@gmail.com>" ]
